@@ -1,6 +1,6 @@
 # MailChimp Newsletter Signup
 
-> Newsletter signup using Node.js/Express and the Mailchimp API. Fill in your [list ID] and your [API Key] in app.js
+> Newsletter signup using Node.js/Express and the Mailchimp API. Fill in your [list ID] and your [API Key] in app.js.
 
 ## Quick Start
 
@@ -18,4 +18,4 @@ npm run dev (Nodemon)
 
 ### License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
